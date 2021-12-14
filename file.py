@@ -26,7 +26,7 @@ def Main():
     print("dummy operation")
     print("dummy operation")
     print("dummy operation")
-    fp.close()
+    print("my new dummy operation ")
 
 
 if __name__ == '__main__':
