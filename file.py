@@ -27,6 +27,7 @@ def Main():
     print("dummy operation")
     print("dummy operation")
     print("my new dummy operation ")
+    fp = open("def1.txt")
 
 
 if __name__ == '__main__':
