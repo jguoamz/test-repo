@@ -26,7 +26,8 @@ def Main():
     print("dummy operation")
     print("dummy operation")
     print("dummy operation")
-    fp.close()
+    print("dummy operation")
+    fp2 = open("file2.abc")
 
 
 if __name__ == '__main__':
